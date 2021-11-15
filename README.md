@@ -9,5 +9,4 @@ Constante aprendizado em:
 ![css-3](https://user-images.githubusercontent.com/78397162/111859080-f0625d80-891c-11eb-9669-6ae0b37fb081.png)
 ![java-script](https://user-images.githubusercontent.com/78397162/111859092-ff491000-891c-11eb-8efd-8dac5e2d5143.png)
 ![physics](https://user-images.githubusercontent.com/78397162/111859098-053ef100-891d-11eb-962d-7ea7643a93ef.png)
-
-
+![pitao](https://user-images.githubusercontent.com/78397162/141843334-0bf2ff12-b1bb-47da-a28e-fbeba325287f.png)
