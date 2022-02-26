@@ -13,7 +13,7 @@ Olá, meu nome é Erick, eu sou desenvolvedor full-stack e se vocẽ quiser sabe
 ![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) |
 ![postgreSQL](https://user-images.githubusercontent.com/78397162/155826205-3533b5ec-b4ca-4285-887f-10e50be40e01.png) |
 ![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) |
-![wordpress](https://user-images.githubusercontent.com/78397162/155826222-a76e50d5-094f-4d32-8838-e89c004f0655.png) |
+![wordpress](https://user-images.githubusercontent.com/78397162/155826222-a76e50d5-094f-4d32-8838-e89c004f0655.png) 
 
 
 <br>
