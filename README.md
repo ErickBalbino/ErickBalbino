@@ -2,18 +2,20 @@
 
 Me chamo Erick, moro em Sobral-CE e atualmente estou estudando desenvolvimento front-end 💻, cada dia para mim é um novo aprendizado, procuro sempre melhorar meus códigos, que você vai encontrar nos meus repositórios, feitos com muito carinho e dedicação, porque afinal, eu sou completamente apaixonado por aquilo que eu faço ❤️. Então, bora codar dev?
 
+![html5](https://user-images.githubusercontent.com/78397162/155825880-32f15bdb-e223-40b4-8088-d51f7b4e15cc.png) /
+![css3](https://user-images.githubusercontent.com/78397162/155825874-3ca8c832-e628-4e57-9250-48705fae1b68.png) /
+![react](https://user-images.githubusercontent.com/78397162/155825909-aeb2e062-0b68-4d39-ba7b-c28250bcd192.png)
+![bootstrap](https://user-images.githubusercontent.com/78397162/155825863-58251b0f-d79c-4aa4-bfd4-d0ade489ecb4.png)
+![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png)
+![python](https://user-images.githubusercontent.com/78397162/155826010-296b3548-0899-4cb1-a396-6cc4af0791f6.png)
+
+
+
+
 <div align="center">
   <a href="https://github.com/ErickBalbino">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ErickBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBalbino&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
