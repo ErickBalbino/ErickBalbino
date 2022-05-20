@@ -1,5 +1,5 @@
 # Hello, Welcome to my world! 🌐
-Olá, meu nome é Erick, eu sou desenvolvedor full-stack e se vocẽ quiser saber mais sobre mim, <a href="https://erickbalbino.github.io/portfolio" target="_blank">clique aqui!</a> Eu sou apaixonado por tecnologia e programação, então fique a vontade para dar uma olhada nos meus repositórios.
+Olá, meu nome é Erick, eu sou desenvolvedor front-end e se vocẽ quiser saber mais sobre mim, <a href="https://portfolio-2-0-taupe.vercel.app/" target="_blank">clique aqui!</a> Eu sou apaixonado por tecnologia e programação, então fique a vontade para dar uma olhada nos meus repositórios.
 
 * Café e programação é a essência da vida ❤️
 * Se precisar de ajuda, pode olhar meus repositórios 🖥️
