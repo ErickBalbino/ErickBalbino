@@ -1,5 +1,5 @@
 # Hello, Welcome to my world! 🌐
-Olá, meu nome é Erick, eu sou desenvolvedor front-end e se vocẽ quiser saber mais sobre mim, <a href="https://portfolio-2-0-taupe.vercel.app/" target="_blank">clique aqui!</a> Eu sou apaixonado por tecnologia e programação, então fique a vontade para dar uma olhada nos meus repositórios.
+Me chamo Erick, moro em Sobral-CE e atualmente sou desenvolvedor Front-End, tudo começou aos 15 anos, quando conheci minha primeira linguagem de programação Pascal, não foi amor a primeira vista, longe disso, mas todos aqueles comandos e erros seguidos de estresse me intrigaram e me fizeram ser quem eu sou hoje, um cara apaixonado por tecnologia e programação.
 
 * Café e programação é a essência da vida ❤️
 * Se precisar de ajuda, pode olhar meus repositórios 🖥️
