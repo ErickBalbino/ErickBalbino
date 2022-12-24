@@ -1,5 +1,5 @@
 # Hello, Welcome to my world! 🌐
-Me chamo Erick, moro em Sobral-CE e atualmente sou desenvolvedor Front-End, tudo começou aos 15 anos, quando conheci minha primeira linguagem de programação Pascal, não foi amor a primeira vista, longe disso, mas todos aqueles comandos e erros seguidos de estresse me intrigaram e me fizeram ser quem eu sou hoje, um cara apaixonado por tecnologia e programação.
+Meu nome é Erick, sou desenvolvedor Front-End (React JS) e estudante de Engenharia da Computação. Atualmente tenho como foco me tornar full-stack.
 
 * Café e programação é a essência da vida ❤️
 * Se precisar de ajuda, pode olhar meus repositórios 🖥️
