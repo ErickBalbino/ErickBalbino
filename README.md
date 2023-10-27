@@ -1,5 +1,5 @@
 # Hello, Welcome to my world! 🌐
-Meu nome é Erick, sou desenvolvedor Front-End (React JS) e estudante de Engenharia da Computação. Atualmente tenho como foco me tornar full-stack.
+Meu nome é Erick, sou desenvolvedor full-stack e estudante de Engenharia da Computação.
 
 * Café e programação é a essência da vida ❤️
 * Se precisar de ajuda, pode olhar meus repositórios 🖥️
