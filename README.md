@@ -1,28 +1,27 @@
 # Hello, Welcome to my world! 🌐
-Meu nome é Erick, sou desenvolvedor full-stack e estudante de Engenharia da Computação.
+As a passionate technology enthusiast, I lead projects developing innovative solutions. With experience in front-end and back-end development, I work on creating systems such as applications and websites. My leadership skills allow me to guide teams towards excellence, promoting a collaborative and dynamic environment.
 
-* Café e programação é a essência da vida ❤️
-* Se precisar de ajuda, pode olhar meus repositórios 🖥️
+* Coffee and programming is the essence of life ❤️
 
 ## Tecnologias e Linguagens
 ### Front-End
-![html5](https://user-images.githubusercontent.com/78397162/155825880-32f15bdb-e223-40b4-8088-d51f7b4e15cc.png) 
-![css3](https://user-images.githubusercontent.com/78397162/155825874-3ca8c832-e628-4e57-9250-48705fae1b68.png) 
-![js](https://user-images.githubusercontent.com/78397162/155826429-78a9aeb8-7f02-438b-9a2d-fab79870426b.png) 
-![react](https://user-images.githubusercontent.com/78397162/155825909-aeb2e062-0b68-4d39-ba7b-c28250bcd192.png) 
-![bootstrap](https://user-images.githubusercontent.com/78397162/155825863-58251b0f-d79c-4aa4-bfd4-d0ade489ecb4.png) 
+<li>React JS</li>
+<li>React Native</li>
+<li>Typescript</li>
 
 ### Back-End
-![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png) 
-![python](https://user-images.githubusercontent.com/78397162/155826010-296b3548-0899-4cb1-a396-6cc4af0791f6.png)
+<li>Node.JS</li>
+<li>Java</li>
 
 ### Banco de dados
-![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) 
-![postgreSQL](https://user-images.githubusercontent.com/78397162/155826205-3533b5ec-b4ca-4285-887f-10e50be40e01.png) 
+<li>MySQL</li>
+<li>PostgreSQL</li>
 
-### Demais Tecnologias
-![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
-![wordpress](https://user-images.githubusercontent.com/78397162/155826222-a76e50d5-094f-4d32-8838-e89c004f0655.png) 
+### DevOps and Tools
+<li>Knowledge of servers</li>
+<li>Application deployment</li>
+<li>Docker</li>
+<li>CI/CD</li>
 
 
 <br>
