@@ -1,5 +1,5 @@
 # Hello, Welcome to my world! 🌐
-As a passionate technology enthusiast, I lead projects developing innovative solutions. With experience in front-end and back-end development, I work on creating systems such as applications and websites. My leadership skills allow me to guide teams towards excellence, promoting a collaborative and dynamic environment.
+I lead innovative solution development projects, with experience in front-end and back-end development, working on the creation of systems such as applications and websites. My leadership skills allow me to guide teams towards excellence, promoting a collaborative and dynamic environment.
 
 * Coffee and programming is the essence of life ❤️
 
