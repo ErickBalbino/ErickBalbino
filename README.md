@@ -5,6 +5,7 @@ I lead innovative solution development projects, with experience in front-end an
 
 ## Tecnologias e Linguagens
 ### Front-End
+<li>NEXT JS</li>
 <li>React JS</li>
 <li>React Native</li>
 <li>Typescript</li>
