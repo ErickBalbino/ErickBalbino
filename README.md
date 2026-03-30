@@ -12,6 +12,7 @@ I lead innovative solution development projects, with experience in front-end an
 
 ### Back-End
 <li>Node.JS</li>
+<li>Python</li>
 <li>Java</li>
 
 ### Banco de dados
